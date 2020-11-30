@@ -1,0 +1,21 @@
+body{
+    background-color: #EFEFEF;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.exergue{
+    background-color: #2A4577;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+
+.legende{
+    font-style: italic;
+}
