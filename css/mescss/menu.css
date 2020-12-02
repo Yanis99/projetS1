@@ -79,6 +79,7 @@ pour faire disparaitre le scroll sur safari iOS
     list-style: none;
     margin: 0;
     padding: 0;
+    width: 60%;
 }
 
 .menu li{
