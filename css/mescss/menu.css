@@ -58,6 +58,7 @@
     z-index: 1;
     transform: translateX(100vw);
     transition: all .7s;
+    text-align: center;
 }
 
 .menu-open .menu{
@@ -91,8 +92,11 @@ pour faire disparaitre le scroll sur safari iOS
 
 .menu a{
     color: #2A4577;
-    font-size: 24px;
+    font-size: 16px;
+    line-height: 2em;
 }
+
+
 
 .menu-open .menu li{
     transform: translateX(0);
@@ -113,4 +117,10 @@ pour faire disparaitre le scroll sur safari iOS
 }
 .menu-open .menu li:nth-child(n+5) {
     transition-delay: .5s;
+}
+
+.menu img{
+    width: 50%;
+    margin: 51px;
+    margin-top: -47px;
 }
