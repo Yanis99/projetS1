@@ -2,6 +2,13 @@ body{
     background-color: #EFEFEF;
 }
 
+.NomPolluweb a{
+    color: white;
+    font-size: 23;
+    font-family: HelveticaNeue-Light,"Helvetica Neue";
+    font-weight: 300;
+}
+
 img{
     max-width: 100%;
     height: auto;
@@ -18,5 +25,17 @@ img{
 
 .legende{
     font-style: italic;
+}
+
+body>header>.logo{
+    width: 40px;
+    height: 44px;
+}
+
+header{
+    background-color: #00184D;
+    display: inline-flex;
+    font-family: "Helvetica Neue";
+
 }
 

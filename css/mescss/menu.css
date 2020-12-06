@@ -45,6 +45,7 @@
 /*MENU*/
 
 .menu{
+    font-family: "Helvetica Neue";
     visibility: hidden;
     background-color: white;
     position: fixed; /*pour quil soit tjrs a lecran */
