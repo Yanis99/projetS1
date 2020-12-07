@@ -30,12 +30,20 @@ img{
 body>header>.logo{
     width: 40px;
     height: 44px;
+    margin-top: 53px;
+    margin-left: 15px;
 }
 
 header{
+    width: 375px;
+    height: 112px;
     background-color: #00184D;
     display: inline-flex;
     font-family: "Helvetica Neue";
 
 }
 
+.NomPolluweb{
+    margin-block: 42px;
+    margin-left: 26px;
+}
