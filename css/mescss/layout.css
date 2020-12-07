@@ -1,5 +1,10 @@
 body{
     background-color: #EFEFEF;
+
+}
+
+footer a{
+    color: #AAB2BA;
 }
 
 .NomPolluweb a{
@@ -30,8 +35,8 @@ img{
 body>header>.logo{
     width: 40px;
     height: 44px;
-    margin-top: 53px;
-    margin-left: 15px;
+    margin-top: 3em;
+    margin-left: 1em;
 }
 
 header{
@@ -44,6 +49,17 @@ header{
 }
 
 .NomPolluweb{
-    margin-block: 42px;
-    margin-left: 26px;
+    margin-block: 2.3em;
+    margin-left: 1.2em;
 }
+
+
+footer{
+    background-color: #27324A ;
+    color: white;
+}
+
+.Nom{
+    margin-left: -8em;
+}
+

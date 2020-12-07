@@ -1,0 +1,27 @@
+body>main>p{
+    font-family: Roboto;
+    font-size: 18px;
+    color: #00184D;
+    line-height: 1.8;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+strong{
+    font-weight: 3000;
+    color: #02143E;
+}
+
+.EnSavoirPlus{
+    margin-bottom: 2em;
+    float: right;
+}
+
+.fleche{
+    margin-top: 7em;
+    margin-left: 1em;
+}
+
+footer{
+    column-count: 3;
+}
