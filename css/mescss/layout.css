@@ -3,6 +3,8 @@ body{
 
 }
 
+
+
 footer a{
     color: #AAB2BA;
 }
@@ -81,3 +83,25 @@ footer{
     margin-right: 2em;
 }
 
+.BandeAnnonce{
+    max-width: 100%;
+}
+
+.LogoGalerie{
+    margin-top: 2em;
+    float: right;
+    margin-right: 1em;
+    margin-bottom: 2em;
+}
+
+.fleche{
+    margin-top: 4em;
+}ch
+
+.chapeau{
+    font-style: italic;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin : 1em;
+    line-height: 1.5em;
+}
