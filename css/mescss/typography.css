@@ -10,7 +10,9 @@ body {
 }
 
 body p{
-    margin: 0 20px;
+    margin: 20 20px;
+    margin-top: 2.5em;
+
 }
 
 a{

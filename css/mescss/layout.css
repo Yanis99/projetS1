@@ -1,12 +1,53 @@
 body{
     background-color: #EFEFEF;
+}
 
+#CaseFormulaire{
+    width: 100%;
+    margin-top: 2em;
+    height: 3em;
+    border: none;
+}
+
+#CaseFormulaire:last-child{
+    width: 100%;
+    margin-top: 2em;
+    height: 10em;
 }
 
 
+p .chapeau{
+    color: #00184D;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+#Tracé_5-2{
+    display: none;
+}
+
+.legende{
+    margin-right: 2em;
+}
+
+.questions{
+    color: white;
+    background-color: #00184D;
+    font-size: 18px;
+}
+
+.questions h3{
+    margin: 1em;
+    padding: .5em;
+}
 
 footer a{
     color: #AAB2BA;
+}
+
+body>footer>svg{
+
+    background-color: #27324A;
 }
 
 .NomPolluweb a{
@@ -32,6 +73,9 @@ img{
 
 .legende{
     font-style: italic;
+    display: block;
+    float: right;
+    margin-bottom: -1em;
 }
 
 body>header>.logo{
@@ -42,8 +86,8 @@ body>header>.logo{
 }
 
 header{
-    width: 375px;
-    height: 112px;
+    width: 100%;
+    height: 112;
     background-color: #00184D;
     display: inline-flex;
     font-family: "Helvetica Neue";
@@ -57,7 +101,7 @@ header{
 
 
 footer{
-    background-color: #27324A ;
+    column-count: 3;s
     color: white;
 }
 
@@ -68,9 +112,6 @@ footer{
 
 }
 
-footer{
-    column-count: 3;
-}
 
 .ProjetRéalisé{
     font-size: 9px;
@@ -95,8 +136,10 @@ footer{
 }
 
 .fleche{
-    margin-top: 4em;
-}ch
+    margin-top: 7em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+}
 
 .chapeau{
     font-style: italic;
@@ -105,3 +148,4 @@ footer{
     margin : 1em;
     line-height: 1.5em;
 }
+
