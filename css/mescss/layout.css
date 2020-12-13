@@ -1,20 +1,23 @@
 body{
-    background-color: #EFEFEF;
+    background-color: #EBEBEB;
 }
 
-#CaseFormulaire{
-    width: 100%;
-    margin-top: 2em;
-    height: 3em;
-    border: none;
+
+.fondblanc>h1{
+    margin-left: 1em;
 }
 
-#CaseFormulaire:last-child{
-    width: 100%;
-    margin-top: 2em;
-    height: 10em;
+h1{
+    margin-left: 1em;
 }
 
+h1,h2{
+    font-family: Comfortaa;
+}
+
+.flecheS>.fleche>a>svg{
+    margin-top: -3em;
+}
 
 p .chapeau{
     color: #00184D;
@@ -26,14 +29,15 @@ p .chapeau{
     display: none;
 }
 
-.legende{
-    margin-right: 2em;
-}
 
 .questions{
     color: white;
     background-color: #00184D;
     font-size: 18px;
+}
+
+.DerniereQuestion>.questions>h3{
+    margin-top: 3em;
 }
 
 .questions h3{
@@ -72,10 +76,14 @@ img{
   }
 
 .legende{
+    color: #0000008a;
     font-style: italic;
     display: block;
     float: right;
     margin-bottom: -1em;
+    text-align: right;
+    margin-right: 2em;
+
 }
 
 body>header>.logo{
@@ -91,7 +99,7 @@ header{
     background-color: #00184D;
     display: inline-flex;
     font-family: "Helvetica Neue";
-
+    
 }
 
 .NomPolluweb{
@@ -147,5 +155,11 @@ footer{
     margin-bottom: 2em;
     margin : 1em;
     line-height: 1.5em;
+}
+
+.fondblanc{
+    background-color: white;
+    padding-bottom: 1em;
+    padding-top: 1em;
 }
 

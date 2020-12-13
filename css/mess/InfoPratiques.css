@@ -1,0 +1,26 @@
+body>h3{
+    font-family: Comfortaa;
+    background-color: #00184D;
+    color: white;
+    margin-left: 0;
+    padding: .8em;
+    font-size: 20px;
+    margin-right: 7em;
+    text-align: center;
+}
+
+body>h1,h2,h3{
+    margin-left: .8em;
+}
+
+body>.sources>a{
+    color: #101c88;
+    font-style: italic;
+    margin-left: 2em;
+}
+
+footer{
+    margin-top: 2em;
+}
+
+
