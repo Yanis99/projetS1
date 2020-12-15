@@ -20,20 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b251f2-1065-4e20-9158-3ea67283353a" name="Default Changelist" comment="bouton envoyer">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.infomaniak-maintenance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.user.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/HowToSellDrugsOnline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/LaPlateforme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Matrix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/MrRobot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ReadyPlayerOne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/microtrotoir compresse.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +46,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1k6T78C7Sm7D619G36GXogW12lf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -107,6 +104,7 @@
       <workItem from="1607941671032" duration="3376000" />
       <workItem from="1607982726785" duration="2686000" />
       <workItem from="1608031229970" duration="2318000" />
+      <workItem from="1608048423383" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="Article1">
       <created>1606776809813</created>
