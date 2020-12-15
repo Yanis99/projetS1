@@ -16,30 +16,24 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b251f2-1065-4e20-9158-3ea67283353a" name="Default Changelist" comment="bouton envoyer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtraitScientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtraitScientifique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Formulaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/Formulaire.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfoPratiques.html" beforeDir="false" afterPath="$PROJECT_DIR$/InfoPratiques.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview.html" beforeDir="false" afterPath="$PROJECT_DIR$/Interview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaPollutionNumeriqueUnVraiProbleme.html" beforeDir="false" afterPath="$PROJECT_DIR$/LaPollutionNumeriqueUnVraiProbleme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaSurconsommationNumerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/LaSurconsommationNumerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtiliserLeWebProprement.html" beforeDir="false" afterPath="$PROJECT_DIR$/UtiliserLeWebProprement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/InfoPratiques1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/InfoPratiques1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/formulaire.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/interview.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/interview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/HowToSellDrugsOnline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/LaPlateforme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/MrRobot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ReadyPlayerOne.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/MicroTrottoir720mp.mp4" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.infomaniak-maintenance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.user.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HowToSellDrugsOnline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/LaPlateforme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MrRobot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ReadyPlayerOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/microtrotoir compresse.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +106,7 @@
       <workItem from="1607893848256" duration="5000" />
       <workItem from="1607941671032" duration="3376000" />
       <workItem from="1607982726785" duration="2686000" />
-      <workItem from="1608031229970" duration="1833000" />
+      <workItem from="1608031229970" duration="2318000" />
     </task>
     <task id="LOCAL-00001" summary="Article1">
       <created>1606776809813</created>
@@ -240,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607823146785</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="projets1">
+      <created>1608045053179</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045053179</updated>
+    </task>
+    <task id="LOCAL-00020" summary="projets1">
+      <created>1608045419876</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045419876</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +290,8 @@
     <MESSAGE value="liens projets" />
     <MESSAGE value="lien dans footer" />
     <MESSAGE value="bouton envoyer" />
-    <option name="LAST_COMMIT_MESSAGE" value="bouton envoyer" />
+    <MESSAGE value="projets1" />
+    <option name="LAST_COMMIT_MESSAGE" value="projets1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="303" y="90" key="#SSH_Configurations" timestamp="1605706877336">
@@ -299,6 +308,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="751" height="445" key="SwitcherDM/0.0.1440.900/-1920.-180.1920.1080@0.0.1440.900" timestamp="1607380006347" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1608045431652">
+      <screen x="0" y="25" width="1440" height="816" />
+    </state>
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816/-1920.-155.1920.1055@0.25.1440.816" timestamp="1608045431652" />
     <state x="637" y="175" key="ftp.server.browser" timestamp="1605706979006">
       <screen x="0" y="25" width="1440" height="815" />
     </state>
