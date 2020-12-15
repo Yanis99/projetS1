@@ -1,3 +1,23 @@
 footer{
-    margin-top: 5em;
+    margin-top: 0;
+}
+
+video{
+    margin-bottom: 2.5em;
+}
+
+.fondbleu{
+    background-color: #27314a33;
+}
+
+.fondbleu>h2{
+    font-family: Comfortaa;
+    background-color: #00184D;
+    color: white;
+    margin-left: 0;
+    padding: .8em;
+    font-size: 20px;
+    margin-right: 7em;
+    text-align: center;
+    margin-bottom: .5em;
 }

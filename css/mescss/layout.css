@@ -2,12 +2,17 @@ body{
     background-color: #EBEBEB;
 }
 
+footer>svg>#footer>#Projet_réalisé_dans_le_cadre_d_un_exercice_pédagogique_au_département_MMI_Montbéliard_>tspan>a{
+    fill: #AAB2BA;
+}
 
 .fondblanc>h1{
     margin-left: 1em;
 }
 
-h1{
+
+
+body>h1{
     margin-left: 1em;
 }
 
@@ -105,6 +110,7 @@ header{
 .NomPolluweb{
     margin-block: 2.3em;
     margin-left: 1.2em;
+    margin-top: 2.2em;
 }
 
 

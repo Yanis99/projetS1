@@ -23,7 +23,7 @@ body>svg {
     margin-left: 1em;
 }
 
-p{
+button{
     font-family: Comfortaa;
     font-size: 22px;
     font-weight: bold;
@@ -34,6 +34,9 @@ p{
     padding-left: 1em;
     padding-right: 1em;
     display: block;
+    border: none;
+    margin-top: 1.5em;
+    margin-right: 1em;
 }
 
 footer{
